@@ -1,0 +1,4 @@
+[submodule "SpinalHDL"]
+	path = SpinalHDL
+	url = https://github.com/yportne13/SpinalHDL.git
+	branch = parameter
